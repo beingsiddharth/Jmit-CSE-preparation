@@ -17,12 +17,12 @@ It is a path to a free self-taught education in Computer Science!
 - [Team](#team)
 - [References](#references)
 
-## About[x]
+## About[
 
 This is a **solid path** for those of you who want to learn **Computer Science** on your own, **for free**, with courses and material from the **best universities** and **best resources** in the World.
 Whether you want to do job or MS or MTech, this will help you to have great knowledge about Computers.
 
-In this curriculum, we give preference to MOOC (Massive Open Online Course) style courses and other great resources.
+ In this curriculum, we give preference to MOOC (Massive Open Online Course) style courses and other great resources.
 
 We recommend this but it’s up to you whether you find it apt or not. You are free to follow any other path or suggest any changes/ updates to this one.
 
@@ -40,6 +40,15 @@ The **only things** that you need to know are how to use **Git** and **GitHub**.
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
+## How to use this guide
+
+Everything below is an outline, and you should tackle the items in order from top to bottom.
+
+You can use Github's special markdown flavor, including tasks lists to check progress.
+
+- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
+
 
 ## Motivation & Preparation
 
