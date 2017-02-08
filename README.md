@@ -26,4 +26,15 @@ In this curriculum, we give preference to MOOC (Massive Open Online Course) styl
 
 We recommend this but it’s up to you whether you find it apt or not. You are free to follow any other path or suggest any changes/ updates to this one.
 
-##paths-available
+## Paths available
+
+## Prerequisite
+
+## Motivation & Preparation
+
+
+## Curriculum
+
+
+## How to use this guide
+
