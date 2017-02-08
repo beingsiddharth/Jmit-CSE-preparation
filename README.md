@@ -20,7 +20,10 @@ It is a path to a free self-taught education in Computer Science!
 ## About
 
 This is a **solid path** for those of you who want to learn **Computer Science** on your own, **for free**, with courses and material from the **best universities** and **best resources** in the World.
+Whether you want to do job or MS or MTech, this will help you to have great knowledge about Computers.
 
 In this curriculum, we give preference to MOOC (Massive Open Online Course) style courses and other great resources.
 
 We recommend this but it’s up to you whether you find it apt or not. You are free to follow any other path or suggest any changes/ updates to this one.
+
+##paths-available
